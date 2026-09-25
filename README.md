@@ -1,4 +1,4 @@
 # DPMoviles-App
 Aplicación móvil para pedidos
 
-![Menú Principal](./MockPrincipal.jpeg)
+<img src="./MockPrincipal.jpeg" alt="Menu Principal" width="400">
